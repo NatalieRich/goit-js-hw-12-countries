@@ -1,0 +1,60 @@
+.body {
+  background-color: lavenderblush;
+}
+
+.container {
+  text-align: center;
+}
+
+.head {
+  color: blueviolet;
+  font-size: 60px;
+}
+
+.search-input {
+  border: solid rgb(81, 0, 128);
+  height: 60px;
+  width: 450px;
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.search-input:focus {
+  border: solid rgb(0, 128, 28);
+}
+
+.country {
+  font-size: 50px;
+}
+
+.list {
+  font-size: 24px;
+  list-style: none;
+}
+
+img {
+  width: 300px;
+}
+
+.information {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lists {
+  margin-right: 60px;
+}
+
+.listCountry {
+  text-align: justify;
+  font-size: 20px;
+}
+
+.listCountrys {
+  display: inline-block;
+  justify-content: center;
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
